@@ -34,7 +34,7 @@ using std::ostream;
  * @return true if the date is valid, false otherwise
  */
 
-bool IsValidDate(size_t year, size_t month, size_t day){
+bool Date::IsValidDate(size_t year, size_t month, size_t day){
 	if (month == 0 || month > 12 || day == 0 || day > 31){ // date is invalid
 		return false;
 	}else{

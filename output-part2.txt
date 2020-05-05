@@ -1,0 +1,117 @@
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+

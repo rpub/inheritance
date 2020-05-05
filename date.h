@@ -27,6 +27,7 @@ public:
 	size_t GetMonth()const;
 	size_t GetDay()const;
 	bool IsInvalidDate()const;
+    bool IsValidDate(size_t year, size_t month, size_t day);
 	static Date Now();
 	friend istream& operator>>(istream& input, Date& date);
 	friend ostream& operator<<(ostream& output, const Date& date);
